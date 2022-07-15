@@ -1,0 +1,67 @@
+.background {
+    background-image: url(images/image\ 1.png);
+    color: white;
+    height: 400px;
+
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.explore {
+    display: flex;
+    margin-top: 40px;
+    align-items: 50%;
+    width: 100%;
+
+}
+
+.button {
+    text-decoration: none;
+    background-color: orangered;
+    font-size: 25px;
+}
+
+.survive {
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
+.donation {
+    text-align: center;
+}
+
+.direct-help {
+    width: 500px;
+    height: 200px;
+    border: 0px solid gray;
+    padding: 10px;
+    margin-top: 10px;
+    margin: 20px;
+    display: flex;
+}
+
+.help-box {
+    display: flex;
+    justify-content: center;
+}
+
+.extended {
+    text-align: center;
+}
+
+.images {
+    margin-left: 80px;
+    justify-content: center;
+
+}
+
+.footer {
+    background-color: rgb(5, 5, 5);
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
